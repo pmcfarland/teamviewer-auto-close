@@ -8,3 +8,6 @@ Sure all you have to do is click ok, but it gets really annoying... which is of 
 Anyways I fired up Auto-It(https://www.autoitscript.com/site/autoit/) and created a selfcontained script that runs in the background looking for that window, then closes it.
 
 ![Example of the sponsored session window](https://github.com/pmcfarland/teamviewer-auto-close/blob/master/sponsored%20session.PNG)
+
+
+In order to use, simply place the .exe or a shortcut to the .exe into your Startup folder. The start up folder should be located here: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp. Then the exe will load up and run in the background automatically.
